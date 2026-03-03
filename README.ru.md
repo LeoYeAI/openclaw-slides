@@ -8,11 +8,11 @@
 
 Скилл для OpenClaw, который помогает создавать красивые веб-слайды без зависимостей. Единые HTML-файлы со встроенным CSS/JS — без npm, без инструментов сборки, без фреймворков.
 
----
+
 
 🌐 **Языки:** [English](README.md) · [中文](README.zh-CN.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [Italiano](README.it.md) · [Español](README.es.md)
 
----
+
 
 ## ✨ Возможности
 
@@ -38,6 +38,5 @@ clawhub install openclaw-slides
 
 MIT — Используйте, изменяйте, делитесь.
 
----
 
-*Адаптировано для OpenClaw из [zarazhangrui/openclaw-slides](https://github.com/zarazhangrui/openclaw-slides). На базе [MyClaw.ai](https://myclaw.ai).*
+

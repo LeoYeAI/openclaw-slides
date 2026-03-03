@@ -8,11 +8,11 @@
 
 依存関係なしで美しいウェブスライドを作成できるOpenClawスキル。インラインCSS/JSを含む単一HTMLファイル — npm、ビルドツール、フレームワーク不要。
 
----
+
 
 🌐 **言語:** [English](README.md) · [中文](README.zh-CN.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Русский](README.ru.md) · [Italiano](README.it.md) · [Español](README.es.md)
 
----
+
 
 ## ✨ 機能
 
@@ -38,6 +38,5 @@ clawhub install openclaw-slides
 
 MIT — 使用・変更・共有自由。
 
----
 
-*[zarazhangrui/openclaw-slides](https://github.com/zarazhangrui/openclaw-slides)をOpenClaw向けに適応。[MyClaw.ai](https://myclaw.ai)提供。*
+

@@ -8,11 +8,11 @@
 
 Un skill OpenClaw qui aide n'importe qui à créer de belles présentations web sans dépendances. Fichiers HTML autonomes avec CSS/JS intégré — sans npm, sans outils de build, sans framework.
 
----
+
 
 🌐 **Langues :** [English](README.md) · [中文](README.zh-CN.md) · [Deutsch](README.de.md) · [Русский](README.ru.md) · [日本語](README.ja.md) · [Italiano](README.it.md) · [Español](README.es.md)
 
----
+
 
 ## ✨ Fonctionnalités
 
@@ -38,6 +38,5 @@ clawhub install openclaw-slides
 
 MIT — Utilisez-le, modifiez-le, partagez-le.
 
----
 
-*Adapté pour OpenClaw depuis [zarazhangrui/openclaw-slides](https://github.com/zarazhangrui/openclaw-slides). Propulsé par [MyClaw.ai](https://myclaw.ai).*
+

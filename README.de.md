@@ -8,11 +8,11 @@
 
 Ein OpenClaw-Skill, der jedem hilft, schöne Web-Slideshows ohne Abhängigkeiten zu erstellen. Einzelne HTML-Dateien mit integriertem CSS/JS — kein npm, keine Build-Tools, kein Framework.
 
----
+
 
 🌐 **Sprachen:** [English](README.md) · [中文](README.zh-CN.md) · [Français](README.fr.md) · [Русский](README.ru.md) · [日本語](README.ja.md) · [Italiano](README.it.md) · [Español](README.es.md)
 
----
+
 
 ## ✨ Funktionen
 
@@ -38,6 +38,5 @@ clawhub install openclaw-slides
 
 MIT — Nutzen, ändern, teilen.
 
----
 
-*Für OpenClaw adaptiert von [zarazhangrui/openclaw-slides](https://github.com/zarazhangrui/openclaw-slides). Unterstützt von [MyClaw.ai](https://myclaw.ai).*
+

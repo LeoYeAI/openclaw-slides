@@ -8,11 +8,11 @@
 
 这是一个 OpenClaw Agent Skill，帮助任何人构建精美的网页幻灯片。零依赖，单个 HTML 文件内联 CSS/JS，无需 npm、构建工具或框架。离线可用，永久有效。
 
----
+
 
 🌐 **语言：** [English](README.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Русский](README.ru.md) · [日本語](README.ja.md) · [Italiano](README.it.md) · [Español](README.es.md)
 
----
+
 
 ## ✨ 功能特性
 
@@ -78,6 +78,5 @@ Agent 会：
 
 MIT — 自由使用、修改、分发。
 
----
 
-*基于 [zarazhangrui/openclaw-slides](https://github.com/zarazhangrui/openclaw-slides) 适配 OpenClaw。由 [MyClaw.ai](https://myclaw.ai) 提供支持。*
+

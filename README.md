@@ -8,11 +8,11 @@
 
 An OpenClaw agent skill that helps anyone build beautiful web slide decks with zero dependencies. Single HTML files with inline CSS/JS — no npm, no build tools, no frameworks. Works offline, renders forever.
 
----
+
 
 🌐 **Languages:** [中文](README.zh-CN.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Русский](README.ru.md) · [日本語](README.ja.md) · [Italiano](README.it.md) · [Español](README.es.md)
 
----
+
 
 ## ✨ Features
 
@@ -85,6 +85,5 @@ The agent will:
 
 MIT — Use it, modify it, share it.
 
----
 
-*Adapted for OpenClaw from [zarazhangrui/openclaw-slides](https://github.com/zarazhangrui/openclaw-slides). Powered by [MyClaw.ai](https://myclaw.ai).*
+
