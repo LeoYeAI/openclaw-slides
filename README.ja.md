@@ -1,4 +1,4 @@
-# frontend-slides
+# openclaw-slides
 
 [![Powered by MyClaw.ai](https://img.shields.io/badge/Powered%20by-MyClaw.ai-gold?style=flat-square)](https://myclaw.ai)
 [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-blue?style=flat-square)](https://github.com/openclaw/openclaw)
@@ -25,7 +25,7 @@
 ## 🚀 インストール
 
 ```bash
-clawhub install frontend-slides
+clawhub install openclaw-slides
 ```
 
 ## 💬 使い方
@@ -40,4 +40,4 @@ MIT — 使用・変更・共有自由。
 
 ---
 
-*[zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)をOpenClaw向けに適応。[MyClaw.ai](https://myclaw.ai)提供。*
+*[zarazhangrui/openclaw-slides](https://github.com/zarazhangrui/openclaw-slides)をOpenClaw向けに適応。[MyClaw.ai](https://myclaw.ai)提供。*

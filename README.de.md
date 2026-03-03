@@ -1,4 +1,4 @@
-# frontend-slides
+# openclaw-slides
 
 [![Powered by MyClaw.ai](https://img.shields.io/badge/Powered%20by-MyClaw.ai-gold?style=flat-square)](https://myclaw.ai)
 [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-blue?style=flat-square)](https://github.com/openclaw/openclaw)
@@ -25,7 +25,7 @@ Ein OpenClaw-Skill, der jedem hilft, schöne Web-Slideshows ohne Abhängigkeiten
 ## 🚀 Installation
 
 ```bash
-clawhub install frontend-slides
+clawhub install openclaw-slides
 ```
 
 ## 💬 Verwendung
@@ -40,4 +40,4 @@ MIT — Nutzen, ändern, teilen.
 
 ---
 
-*Für OpenClaw adaptiert von [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides). Unterstützt von [MyClaw.ai](https://myclaw.ai).*
+*Für OpenClaw adaptiert von [zarazhangrui/openclaw-slides](https://github.com/zarazhangrui/openclaw-slides). Unterstützt von [MyClaw.ai](https://myclaw.ai).*

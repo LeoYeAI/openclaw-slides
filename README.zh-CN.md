@@ -1,4 +1,4 @@
-# frontend-slides
+# openclaw-slides
 
 [![Powered by MyClaw.ai](https://img.shields.io/badge/Powered%20by-MyClaw.ai-gold?style=flat-square)](https://myclaw.ai)
 [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-blue?style=flat-square)](https://github.com/openclaw/openclaw)
@@ -43,13 +43,13 @@
 ## 🚀 安装
 
 ```bash
-clawhub install frontend-slides
+clawhub install openclaw-slides
 ```
 
 或手动复制到 OpenClaw workspace skills 目录：
 
 ```bash
-cp -r frontend-slides/ ~/.openclaw/workspace/skills/
+cp -r openclaw-slides/ ~/.openclaw/workspace/skills/
 ```
 
 ## 💬 使用方式
@@ -80,4 +80,4 @@ MIT — 自由使用、修改、分发。
 
 ---
 
-*基于 [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) 适配 OpenClaw。由 [MyClaw.ai](https://myclaw.ai) 提供支持。*
+*基于 [zarazhangrui/openclaw-slides](https://github.com/zarazhangrui/openclaw-slides) 适配 OpenClaw。由 [MyClaw.ai](https://myclaw.ai) 提供支持。*

@@ -1,9 +1,9 @@
 ---
-name: frontend-slides
+name: openclaw-slides
 description: Create stunning, animation-rich HTML presentations from scratch or convert PowerPoint files (.ppt/.pptx) to beautiful web slides. Use when the user wants to build a pitch deck, presentation, slideshow, or slide deck — or convert an existing PPT to a web presentation. Generates zero-dependency single HTML files with keyboard/touch navigation and scroll-triggered animations. Style options include Neon Cyber, Bold Signal, Swiss Modern, Paper & Ink, and 8 more curated presets.
 ---
 
-# Frontend Slides
+# OpenClaw Slides
 
 Create zero-dependency, animation-rich HTML presentations that run entirely in the browser. Single self-contained HTML files — no npm, no build tools, no frameworks. Works offline, renders in 10 years.
 

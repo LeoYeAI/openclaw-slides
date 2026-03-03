@@ -1,4 +1,4 @@
-# frontend-slides
+# openclaw-slides
 
 [![Powered by MyClaw.ai](https://img.shields.io/badge/Powered%20by-MyClaw.ai-gold?style=flat-square)](https://myclaw.ai)
 [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-blue?style=flat-square)](https://github.com/openclaw/openclaw)
@@ -25,7 +25,7 @@ Uno skill OpenClaw che aiuta chiunque a creare belle presentazioni web senza dip
 ## 🚀 Installazione
 
 ```bash
-clawhub install frontend-slides
+clawhub install openclaw-slides
 ```
 
 ## 💬 Utilizzo
@@ -40,4 +40,4 @@ MIT — Usalo, modificalo, condividilo.
 
 ---
 
-*Adattato per OpenClaw da [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides). Powered by [MyClaw.ai](https://myclaw.ai).*
+*Adattato per OpenClaw da [zarazhangrui/openclaw-slides](https://github.com/zarazhangrui/openclaw-slides). Powered by [MyClaw.ai](https://myclaw.ai).*
